@@ -1,0 +1,130 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.comp-name {
+    margin: 20px;
+}
+
+#para {
+    text-align: center;
+    width: 539px;
+    margin: auto;
+    padding: 10px;
+    
+}  
+
+h1 {
+    font-size: 22px;
+    color: white;
+    background-color: rgb(239, 91, 202);
+    margin: auto;
+    padding: 8px;
+    padding-left: 30px;
+    border: 2px solid transparent;
+    border-radius: 4px;
+    width: 280px;
+  
+}
+#dash-line{
+    border-top: 3px dashed rgb(239, 91, 202);
+    margin-top: 20px;
+    margin-left: 38vw;
+    margin-right: 36vw;
+}
+/* .sec2{ 
+    border: 2px solid black;
+    margin-top: 20px;
+    margin-left: 625px;
+    margin-right: 600px;
+    padding-left: 30px;
+ }   */
+  h2{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+#dis1{
+   
+    color: white;
+    margin-left: 35vw;
+    margin-right: 41vw;
+    margin-bottom: 20px;
+    border: 2px solid transparent;
+    border-radius: 4px;
+    background-color: rgb(239, 91, 202);
+    text-align: center;
+    width: 30vw;
+}
+.mngt-img-1{
+    
+    display: flex;
+    justify-content: center;
+    
+}
+ .img-1{ 
+   
+    /* border: 2px solid black; */
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#img-all{
+     width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    overflow: hidden;
+    object-fit: cover; 
+}
+.img-2{
+    
+    /* border: 2px solid black; */
+    margin-left: 20px;
+    margin-right: 20px;
+    
+} 
+/* #img-2{
+      width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    overflow: hidden;
+    object-fit: cover; 
+} */
+.img-3{
+    
+    /* border: 2px solid black; */
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 30px;
+    margin-bottom: 20px
+    
+} 
+.img-4{
+    
+    /* border: 2px solid black; */
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 40px;
+    
+} 
+.img-5{
+    
+    /* border: 2px solid black; */
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 40px;
+    
+} 
+#dis2{
+    color: white;
+    margin-top: 40px;
+    margin-left: 41vw;
+    margin-right: 41vw;
+    margin-bottom: 40px;
+    border: 2px solid transparent;
+    border-radius: 4px;
+    background-color: rgb(239, 91, 202);
+    text-align: center;
+    
+}
